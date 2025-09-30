@@ -8,3 +8,7 @@ function add(a,b){
 function del(a,b){
     return a-b;
 }
+
+function cc(a,b){
+    return a*b;
+}
